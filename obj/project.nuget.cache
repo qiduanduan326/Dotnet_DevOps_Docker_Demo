@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+sSZLrBoM5v6oqk2vn7jk8vlsV3uRWcckFlXE9Qe8iYoo//wq3iR6OXivYjZLp0vPH1iGmtKhY7Bq2ybJOuw3g==",
+  "success": true,
+  "projectFilePath": "C:\\01_work\\Learning\\202403_devops\\Dotnet_DevOps_Docker_Demo\\Dotnet_DevOps_Docker_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\731950\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
